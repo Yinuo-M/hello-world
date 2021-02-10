@@ -1,2 +1,3 @@
 # hello-world
-My first github repository
+
+Hi I'm Yinuo, I am learning front-end web development.
